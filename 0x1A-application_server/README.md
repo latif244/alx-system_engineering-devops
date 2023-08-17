@@ -38,7 +38,7 @@ Your web infrastructure is already serving web pages via Nginx that you installe
 WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:5000
- * Running on http://10.247.26.30:5000
+ * Running on http://100.24.72.148:5000
 Press CTRL+C to quit
 127.0.0.1 - - [10/Feb/2023 21:00:05] "GET /airbnb-onepage HTTP/1.1" 200 -
 
